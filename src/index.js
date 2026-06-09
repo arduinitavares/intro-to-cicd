@@ -3,3 +3,7 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
+
+/*
+  This is a multi-line comment
+*/
